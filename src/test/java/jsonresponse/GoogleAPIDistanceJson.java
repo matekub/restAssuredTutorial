@@ -12,7 +12,7 @@ import static org.hamcrest.Matchers.*;
 
 
 public class GoogleAPIDistanceJson {
-    public static final String KEY = "AIzaSyBIlZQymJvjXP4hQpRZy7KP7QYLeBgPYzg";
+    public static final String KEY = "";
 
     @BeforeClass
     public void setup() {

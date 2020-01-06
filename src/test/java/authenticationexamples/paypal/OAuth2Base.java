@@ -7,8 +7,8 @@ import static io.restassured.RestAssured.given;
 
 public class OAuth2Base {
 
-    private static final String USERNAME = "AQkJ1VYvqB5dcxWcv38eYnrjUbjfwABOYQTTDRio2dZneWkHliOtPx2jJjQYa3HlacoIjIbtr2t4aLVz";
-    private static final String KEY = "ECAsZDAr53qPgxSLDgVBSw0NdOp4daEbayY2br6wslOcOM1y5JBuSjXrJ9GjBUTVqM-B7NEIZ8lpb2Ed";
+    private static final String USERNAME = "";
+    private static final String KEY = "";
     static String accessToken;
 
     @BeforeClass

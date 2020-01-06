@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
 public class VerifyTime {
-    public static final String KEY = "AIzaSyBIlZQymJvjXP4hQpRZy7KP7QYLeBgPYzg";
+    public static final String KEY = "";
 
     @BeforeClass
     public void setup() {

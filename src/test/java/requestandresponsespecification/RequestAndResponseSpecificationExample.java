@@ -12,7 +12,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class RequestAndResponseSpecificationExample {
-    public static final String KEY = "AIzaSyBIlZQymJvjXP4hQpRZy7KP7QYLeBgPYzg";
+    public static final String KEY = "";
     static RequestSpecBuilder requestSpecBuilder;
     static RequestSpecification requestSpecification;
     static ResponseSpecBuilder responseSpecBuilder;
